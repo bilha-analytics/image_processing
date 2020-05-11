@@ -1,2 +1,2 @@
 # Image Processing
-![sassy_image_segmentation](Minimum_sassy.png)
+![sassy_image_segmentation](notebooks/Minimum_sassy.png)
